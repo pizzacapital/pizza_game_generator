@@ -1,0 +1,12 @@
+{
+    "description": "We're still populating information for this chef", 
+    "external_url": "<METADATA_ROOT>/<TOKEN_ID>",
+    "image": "<IMAGE_ROOT>/<TOKEN_ID>.png",
+    "name": "Unrevealed Chef",
+    "attributes": [
+        {
+            "trait_type": "Serial",
+            "value": "<TOKEN_ID>"
+        }
+    ]
+}

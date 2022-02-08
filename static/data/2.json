@@ -1,0 +1,16 @@
+{
+    "description": "Sharp and precise - with this tool a chef can become dangerously efficient.", 
+    "external_url": "<METADATA_ROOT>/<TOKEN_ID>",
+    "image": "<IMAGE_ROOT>/<TOKEN_ID>.png",
+    "name": "Pizza Cutter",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        },
+        {
+            "trait_type": "PPM",
+            "value": 3
+        }
+    ]
+}

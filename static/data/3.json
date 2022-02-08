@@ -1,0 +1,16 @@
+{
+    "description": "Finally… No more burning customer's hands.  With this box you will be able to serve your customers in a much cleaner manner!", 
+    "external_url": "<METADATA_ROOT>/<TOKEN_ID>",
+    "image": "<IMAGE_ROOT>/<TOKEN_ID>.png",
+    "name": "Pizza Box",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 3
+        },
+        {
+            "trait_type": "PPM",
+            "value": 5
+        }
+    ]
+}

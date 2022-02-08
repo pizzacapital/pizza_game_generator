@@ -1,0 +1,16 @@
+{
+    "description": "Every Chef's Best friend when cooking Pizzas.", 
+    "external_url": "<METADATA_ROOT>/<TOKEN_ID>",
+    "image": "<IMAGE_ROOT>/<TOKEN_ID>.png",
+    "name": "Pizza Peel",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 1
+        },
+        {
+            "trait_type": "PPM",
+            "value": 1
+        }
+    ]
+}
